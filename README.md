@@ -1,14 +1,14 @@
-## Install Execution Layer (Geth) and Consensus Layer (Prysm) Node Clients
+## Install Merge Node Clients Execution Layer for Consensus Layer
 
-### Prysm
+### Prysm (CL)
 
 https://docs.prylabs.network/docs/install/install-with-script
 
-### Geth 
+### Geth (EL) 
 
 https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
 
-## Run
+## Run clients at the same time in different terminals
 
 Terminal 1 (Prysm): 
 
