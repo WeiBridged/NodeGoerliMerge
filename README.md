@@ -1,3 +1,7 @@
+## Merge Node Client Communication 
+
+<img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/mergeClients.png" alt="clients"/>
+
 ## Install Merge Node Clients Execution Layer for Consensus Layer
 
 ### Prysm (CL)
