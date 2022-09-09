@@ -8,7 +8,7 @@ Running your own node increases:
 
 ## 🐻‍❄️ + 🐻 = 🐼 Merge Node Client Communication 🐼 = 🐻‍❄️ + 🐻
 
-Post merge blockchains require 2 clients to be synced together to run a node to access the network:
+Post merge blockchains (like Goerli) require 2 clients to be synced together to run a node to access the network:
 
 -Consensus Layer (Which blocks and transactions should I validate?)
 
