@@ -70,4 +70,5 @@ https://docs.prylabs.network/docs/install/install-with-script
 
 <img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/nodeTweet.jpg" alt="tweet"/>
 
+Tweet: https://twitter.com/vitalikbuterin/status/873177382164848641
 
