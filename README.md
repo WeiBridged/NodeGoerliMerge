@@ -66,7 +66,7 @@ Prysm shows how to setup other clients easily by selecting which clients you wan
 
 https://docs.prylabs.network/docs/install/install-with-script
 
-## :mountain: This guide turns a mountain fantasy turned into reality :mountain: 
+## :mountain: This guide turns a weird mountain man fantasy turned into reality :mountain: 
 
 <img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/nodeTweet.jpg" alt="tweet"/>
 
