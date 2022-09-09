@@ -58,7 +58,7 @@ HTTP
 
 ## Client diversity 
 
-Running different CL and EL also helps decentrzlie the network.
+Running different CL and EL also helps decentralize the network.
 
 https://clientdiversity.org/
 
