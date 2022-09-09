@@ -1,4 +1,4 @@
-## Why should I run a node?
+## :question: Why should I run a node :question:
 
 Running your own node increases:
 
@@ -6,7 +6,7 @@ Running your own node increases:
 
 -decentralization with more network endpoints for users to access
 
-## Merge Node Client Communication 
+## 🐻‍❄️ + 🐻 = 🐼 Merge Node Client Communication 🐼 = 🐻‍❄️ + 🐻
 
 Post merge blockchains require 2 clients to be synced together to run a node to access the network:
 
@@ -56,6 +56,12 @@ HTTP
 
     http://localhost:8545/
 
-## Client diversity
+## Client diversity 
+
+Running different CL and EL also helps decentrzlie the network.
 
 https://clientdiversity.org/
+
+Prysm shows how to setup other clients easily by selecting which clients you want to use:
+
+https://docs.prylabs.network/docs/install/install-with-script
