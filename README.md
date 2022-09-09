@@ -1,8 +1,22 @@
+## Why should I run a node?
+
+Running your own node increases:
+
+-read and write speed to a blockchain
+
+-decentralization with more network endpoints for users to access
+
 ## Merge Node Client Communication 
+
+Post merge blockchains require 2 clients to be synced together to run a node to access the network:
+
+-Consensus Layer (Which blocks and transactions should I validate?)
+
+-Execution Layer (How do I execute EVM logic and build transactions?)
 
 <img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/mergeClients2.png" alt="clients"/>
 
-## Install Merge Node Clients Execution Layer for Consensus Layer
+## Install Merge Node Clients for Consensus Layer and Execution Layer
 
 ### Prysm (CL)
 
