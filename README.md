@@ -6,7 +6,7 @@ Running your own node increases:
 
 -decentralization with more network endpoints for users to access
 
-## 🐻‍❄️ + 🐻 = 🐼 Merge Node Client Communication 🐼 = 🐻‍❄️ + 🐻
+## 🐻‍❄️ + 🐻 = 🐼 Merge Node Client Communication 🐼 = 🐻 + 🐻‍❄️ 
 
 Post merge blockchains (like Goerli) require 2 clients to be synced together to run a node to access the network:
 
