@@ -42,7 +42,11 @@ Terminal 2 (Geth):
 
 ## Sync status
 
-To check node status sync (false means is finished syncing): 
+To check node status sync:
+
+Prysm is done syncing when: "is_syncing:false" 
+
+Geth is done syncing when: "is_optimistic:false" 
 
     curl http://localhost:3500/eth/v1/node/syncing | jq 
 
