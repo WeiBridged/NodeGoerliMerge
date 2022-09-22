@@ -56,22 +56,6 @@ HTTP
 
     http://localhost:8545/
 
-## Client diversity 
-
-Running different CL and EL also helps decentralize the network.
-
-https://clientdiversity.org/
-
-Prysm shows how to setup other clients easily by selecting which clients you want to use:
-
-https://docs.prylabs.network/docs/install/install-with-script
-
-## :mountain: This guide turns a weird mountain man fantasy into reality :mountain: 
-
-<img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/nodeTweet.jpg" alt="tweet"/>
-
-Tweet: https://twitter.com/vitalikbuterin/status/873177382164848641
-
 ## Geth IPC Commands
 
 Start IPC server
@@ -89,3 +73,20 @@ Check sync status:
 Check sync status based on blocks left to sync:
 
     eth.syncing.highestBlock - eth.syncing.currentBlock
+
+## Client diversity 
+
+Running different CL and EL also helps decentralize the network.
+
+https://clientdiversity.org/
+
+Prysm shows how to setup other clients easily by selecting which clients you want to use:
+
+https://docs.prylabs.network/docs/install/install-with-script
+
+## :mountain: This guide turns a weird mountain man fantasy into reality :mountain: 
+
+<img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/nodeTweet.jpg" alt="tweet"/>
+
+Tweet: https://twitter.com/vitalikbuterin/status/873177382164848641
+
