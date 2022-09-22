@@ -37,7 +37,7 @@ Terminal 1 (Prysm):
 Terminal 2 (Geth): 
 
     cd ethereum/execution 
-    geth --goerli --http --http.api eth,net,web3,engine,admin --datadir . --authrpc.jwtsecret ../consensus/jwt.hex
+    geth --goerli --http --http.api eth,web3,net --ws --ws.api eth,web3,net --authrpc.jwtsecret ../consensus/jwt.hex 
 
 
 ## Sync status
@@ -55,7 +55,11 @@ Geth sync monitor: https://goerli.etherscan.io/blocks
 HTTP
 
     http://localhost:8545/
+    
+WS
 
+    ws://localhost:8546
+    
 ## Geth IPC Commands
 
 Start IPC server
