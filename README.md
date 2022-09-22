@@ -72,3 +72,20 @@ https://docs.prylabs.network/docs/install/install-with-script
 
 Tweet: https://twitter.com/vitalikbuterin/status/873177382164848641
 
+## Geth IPC Commands
+
+Start IPC server
+
+    geth attach http://localhost:8545 
+    
+Check the chainId: 
+
+    eth.chainId()
+
+Check sync status:
+
+    eth.syncing
+
+Check sync status based on blocks left to sync:
+
+    eth.syncing.highestBlock - eth.syncing.currentBlock
