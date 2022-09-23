@@ -58,7 +58,7 @@ Geth sync monitor: https://goerli.etherscan.io/blocks
 
 HTTP
 
-    http://localhost:8545/
+    http://localhost:8545
     
 WS
 
