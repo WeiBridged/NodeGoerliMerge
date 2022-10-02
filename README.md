@@ -37,7 +37,7 @@ Terminal 1 (Prysm):
 Terminal 2 (Geth): 
 
     cd ethereum/execution 
-    geth --goerli --http --http.api eth,web3,net --ws --ws.api eth,web3,net --authrpc.jwtsecret ../consensus/jwt.hex 
+    geth --goerli --http --http.api eth,web3,net,txpool --ws --ws.api eth,web3,net,txpool --authrpc.jwtsecret ../consensus/jwt.hex
 
 
 ## Sync status
