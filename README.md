@@ -50,8 +50,10 @@ Prysm is done syncing when: "is_syncing:false"
 
 Geth is done syncing when: "is_optimistic:false" 
 
-    curl http://localhost:3500/eth/v1/node/syncing | jq 
-
+```shell
+curl http://localhost:3500/eth/v1/node/syncing | jq 
+```
+    
 Prysm sync monitor: https://prater.beaconcha.in/blocks
 
 Geth sync monitor: https://goerli.etherscan.io/blocks 
