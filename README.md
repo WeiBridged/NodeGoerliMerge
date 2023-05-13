@@ -104,7 +104,11 @@ eth.syncing.highestBlock - eth.syncing.currentBlock
 
 Create and deposit validator key data:
 
+⚠️ Do this with your internet off to hide your validator seed phrase ⚠️
+
 https://goerli.launchpad.ethereum.org/en/
+
+<img src="https://github.com/WeiBridged/NodeGoerliMerge/blob/main/images/validator.png" alt="validator"/>
 
 To start validator once you follow all of these steps:
 
