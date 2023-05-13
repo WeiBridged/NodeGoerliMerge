@@ -102,6 +102,8 @@ eth.syncing.highestBlock - eth.syncing.currentBlock
 
 ## Stake on Goerli as Ethereum Validator (requires 32 ETH on Goerli)
 
+Create and deposit validator key data:
+
 https://goerli.launchpad.ethereum.org/en/
 
 To start validator once you follow all of these steps:
