@@ -32,7 +32,7 @@ Terminal 1 (Prysm):
 
 ```shell
 cd ethereum/consensus/prysm
-./prysm.sh beacon-chain --execution-endpoint=http://localhost:8551/ --prater --jwt-secret=../jwt.hex --genesis-state=genesis.ssz 
+./prysm.sh beacon-chain --prater --execution-endpoint=http://localhost:8551 --jwt-secret=jwt.hex
 ```
 
 Terminal 2 (Geth): 
