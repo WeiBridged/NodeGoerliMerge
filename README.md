@@ -117,6 +117,7 @@ https://docs.prylabs.network/docs/install/install-with-script#step-5-run-a-valid
 run:
 
 ```shell
+cd ethereum/consensus/prysm
 ./prysm.sh validator --wallet-dir=/home/<USER>/ethereum/consensus  --prater
 ```
 
