@@ -98,6 +98,10 @@ Check sync status based on blocks left to sync:
 eth.syncing.highestBlock - eth.syncing.currentBlock
 ```
 
+## Stake on Goerli as Ethereum Validator (requires 32 ETH on Goerli)
+
+https://goerli.launchpad.ethereum.org/en/
+
 ## Client diversity 
 
 Running different CL and EL also helps decentralize the network.
