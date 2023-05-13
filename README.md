@@ -108,7 +108,9 @@ Create and deposit validator key data:
 
 🚨 Do this with your internet off to hide your validator seed phrase. 🚨
 
-🚨 Make sure you have 32 ETH and you check the address you are depositing to with your validator seed phrase written down. 🚨
+🚨 Make sure you have 32 ETH and you check the address you are depositing to with your validator seed phrase written down with the correct smart contract transaction calldata. 🚨
+
+🚨 Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. 🚨
 
 https://goerli.launchpad.ethereum.org/en/
 
