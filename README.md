@@ -26,7 +26,7 @@ https://docs.prylabs.network/docs/install/install-with-script
 
 https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
 
-## Run clients at the same time in different terminals
+## Run RPC node clients at the same time in different terminals
 
 Terminal 1 (Prysm): 
 
@@ -100,9 +100,9 @@ Check sync status based on blocks left to sync:
 eth.syncing.highestBlock - eth.syncing.currentBlock
 ```
 
-## Run Validator on Goerli
+## Run a Validator
 
-🚨 You must be running the EL (Geth) and CL (Prysm) nodes as shown above to have your validator synced. 🚨
+🚨 You must be running the EL (Geth) and CL (Prysm) RPC node clients as shown above to have your validator synced. 🚨
 
 Create and deposit validator key data:
 
