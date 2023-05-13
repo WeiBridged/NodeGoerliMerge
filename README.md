@@ -102,6 +102,8 @@ eth.syncing.highestBlock - eth.syncing.currentBlock
 
 ## Stake on Goerli as Ethereum Validator (requires 32 ETH on Goerli)
 
+🚨 You must be running the EL (Geth) and CL (Prysm) nodes as shown above to have your validator synced. 🚨
+
 Create and deposit validator key data:
 
 ⚠️ Do this with your internet off to hide your validator seed phrase ⚠️
