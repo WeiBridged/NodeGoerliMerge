@@ -106,7 +106,7 @@ https://goerli.launchpad.ethereum.org/en/
 
 To start validator once you follow all of these steps:
 
-!!!
+https://docs.prylabs.network/docs/install/install-with-script#step-5-run-a-validator-using-prysm
 
 run:
 
