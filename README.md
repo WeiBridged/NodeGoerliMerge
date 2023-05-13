@@ -37,9 +37,11 @@ cd ethereum/consensus/prysm
 
 Terminal 2 (Geth): 
 
+⚠️ Make sure you downloaded the genesis.ssz file into your prysm folder! ⚠️
+
 ```shell
 cd ethereum/execution 
-geth --goerli --http --http.api eth,web3,net,txpool --ws --ws.api eth,web3,net,txpool --authrpc.jwtsecret ../consensus/prysm/jwt.hex
+./prysm.sh beacon-chain --prater --genesis-state=genesis.ssz --execution-endpoint=http://localhost:8551 --jwt-secret=jwt.hex
 ```
 
 ## Sync status
