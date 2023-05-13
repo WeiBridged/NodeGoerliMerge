@@ -104,6 +104,16 @@ eth.syncing.highestBlock - eth.syncing.currentBlock
 
 https://goerli.launchpad.ethereum.org/en/
 
+To start validator once you follow all of these steps:
+
+!!!
+
+run:
+
+```shell
+./prysm.sh validator --wallet-dir=/home/<USER>/ethereum/consensus  --prater
+```
+
 ## Client diversity 
 
 Running different CL and EL also helps decentralize the network.
