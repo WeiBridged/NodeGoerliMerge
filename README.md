@@ -39,7 +39,7 @@ Terminal 2 (Geth):
 
 ```shell
 cd ethereum/execution 
-geth --goerli --http --http.api eth,web3,net,txpool --ws --ws.api eth,web3,net,txpool --authrpc.jwtsecret ../consensus/jwt.hex
+geth --goerli --http --http.api eth,web3,net,txpool --ws --ws.api eth,web3,net,txpool --authrpc.jwtsecret ../consensus/prysm/jwt.hex
 ```
 
 ## Sync status
