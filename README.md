@@ -41,7 +41,7 @@ Terminal 2 (Geth):
 
 ```shell
 cd ethereum/execution 
-./prysm.sh beacon-chain --prater --genesis-state=genesis.ssz --execution-endpoint=http://localhost:8551 --jwt-secret=jwt.hex
+geth --goerli --http --http.api eth,web3,net,txpool --ws --ws.api eth,web3,net,txpool --authrpc.jwtsecret ../consensus/prysm/jwt.hex
 ```
 
 ## Sync status
