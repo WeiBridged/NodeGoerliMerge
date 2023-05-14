@@ -133,6 +133,10 @@ cd ethereum/consensus/prysm
 ./prysm.sh validator --wallet-dir=/home/<USER>/ethereum/consensus  --prater
 ```
 
+📬 Guide to withdraw validator stake: 📬 
+
+https://launchpad.ethereum.org/en/withdrawals
+
 ## Client diversity 
 
 Running different CL and EL also helps decentralize the network.
