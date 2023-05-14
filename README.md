@@ -114,8 +114,9 @@ Create and deposit validator key data:
 
 🚨 Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. 🚨 
 
-🛰️ Use Infura or any other node provider to connect to Prysm while Geth syncs if you sent Ether before syncing by accident. 🛰️
+☎️ Use Infura or any other node provider to connect to Prysm while Geth syncs if you sent Ether before syncing by accident. ☎️ 
 
+🛰️ If even Prysm hasn't synced yet, consider using a simple 3rd party validator service like Allnodes on Goerli (Allnodes appears to not ask for your validator seed phrase to prevent stealing your staked 32 ETH).  🛰️
 
 https://goerli.launchpad.ethereum.org/en/
 
