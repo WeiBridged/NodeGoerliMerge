@@ -133,9 +133,13 @@ cd ethereum/consensus/prysm
 ./prysm.sh validator --wallet-dir=/home/<USER>/ethereum/consensus  --prater
 ```
 
-📬 Guide to withdraw validator stake: 📬 
+📬 Guide to withdraw validator stake 📬 : 
 
 https://launchpad.ethereum.org/en/withdrawals
+
+🐮 Wagyu GUI Tool To Update Withdraw Address 🐮 : 
+
+https://github.com/stake-house/wagyu-key-gen
 
 ## Client diversity 
 
