@@ -112,7 +112,7 @@ Create and deposit validator key data:
 
 🔎 Check the address you are depositing to with your validator seed phrase written down with the correct smart contract transaction calldata. 🔎
 
-⏳ Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. ⏳
+🚨 Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. 🚨 
 
 🛰️ Use Infura or any other node provider to connect to Prysm while Geth syncs if you sent Ether before syncing by accident. 🛰️
 
