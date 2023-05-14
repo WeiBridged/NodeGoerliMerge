@@ -102,15 +102,17 @@ eth.syncing.highestBlock - eth.syncing.currentBlock
 
 ## Run a Validator
 
-🚨 You must be running the EL (Geth) and CL (Prysm) RPC node clients as shown above to have your validator synced. 🚨
-
 Create and deposit validator key data:
 
-🚨 Do this with your internet off to hide your validator seed phrase. 🚨
+🐼 You must be running the EL (Geth) and CL (Prysm) RPC node clients as shown above to have your validator synced. 🐼
 
-🚨 Make sure you have 32 ETH and you check the address you are depositing to with your validator seed phrase written down with the correct smart contract transaction calldata. 🚨
+🔐 Do this with your internet off to hide your validator seed phrase written down on paper. 🔐 
 
-🚨 Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. 🚨 
+💲 Make sure you have 32 ETH to deposit. 💲
+
+🔎 Check the address you are depositing to with your validator seed phrase written down with the correct smart contract transaction calldata. 🔎
+
+🛑 Sync the CL and EL RPC nodes before you make the deposit to avoid potentially losing Ether being offline once it is received. 🛑
 
 🛰️ Use Infura or any other node provider to connect to Prysm while Geth syncs if you sent Ether before syncing by accident. 🛰️
 
